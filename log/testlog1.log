@@ -1,0 +1,30 @@
+
+2021-07-20 22:48:00,668 [main] INFO AutoFramework1 - URL is opened
+2021-07-20 22:48:02,932 [main] INFO AutoFramework1 - Entered username
+2021-07-20 22:48:03,992 [main] INFO AutoFramework1 - Entered password
+2021-07-20 22:48:05,596 [main] INFO AutoFramework1 - login test passed
+2021-07-20 22:51:27,457 [main] INFO AutoFramework1 - URL - https://www.amazon.com/is opened
+2021-07-20 22:51:29,573 [main] INFO AutoFramework1 - Entered username
+2021-07-20 22:51:32,766 [main] INFO AutoFramework1 - Entered password
+2021-07-20 22:52:43,464 [main] INFO AutoFramework1 - URL - https://www.amazon.com/is opened
+2021-07-20 22:52:44,720 [main] INFO AutoFramework1 - Entered username
+2021-07-20 22:52:46,504 [main] INFO AutoFramework1 - Entered password
+2021-07-20 22:54:47,542 [main] INFO AutoFramework1 - URL - https://www.amazon.com/is opened
+2021-07-20 22:54:48,743 [main] INFO AutoFramework1 - Entered username
+2021-07-20 22:54:49,619 [main] INFO AutoFramework1 - Entered password
+2021-07-20 22:54:51,938 [main] INFO AutoFramework1 - login test failed
+2021-07-20 22:55:45,544 [main] INFO AutoFramework1 - URL - https://www.amazon.com/is opened
+2021-07-20 22:55:46,672 [main] INFO AutoFramework1 - Entered username
+2021-07-20 22:55:47,824 [main] INFO AutoFramework1 - Entered password
+2021-07-20 22:55:49,778 [main] INFO AutoFramework1 - login test failed
+2021-07-21 15:29:08,912 [main] INFO AutoFramework1 - URL - https://www.amazon.com/is opened
+2021-07-21 15:29:15,471 [main] INFO AutoFramework1 - Entered username
+2021-07-21 15:29:20,764 [main] INFO AutoFramework1 - Entered password
+2021-07-21 15:30:14,285 [main] INFO AutoFramework1 - URL - https://www.amazon.com/is opened
+2021-07-21 15:30:16,594 [main] INFO AutoFramework1 - Entered username
+2021-07-21 15:30:18,396 [main] INFO AutoFramework1 - Entered password
+2021-07-21 15:30:22,544 [main] INFO AutoFramework1 - login test passed
+2021-10-06 17:24:08,798 [main] INFO AutoFramework1 - URL - https://www.amazon.com/is opened
+2021-10-06 17:24:14,813 [main] INFO AutoFramework1 - Entered username
+2021-10-06 17:24:16,590 [main] INFO AutoFramework1 - Entered password
+2021-10-06 17:24:19,957 [main] INFO AutoFramework1 - login test passed
